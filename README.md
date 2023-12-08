@@ -1,4 +1,4 @@
-# Technical-Mock-API
+# Technical-Mock-Test-API
 
 ### API
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
