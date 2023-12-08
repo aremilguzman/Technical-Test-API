@@ -1,6 +1,6 @@
 # Technical-Mock-Test-API
 
-### API
+### Developed in
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
 ![NodeJS](https://img.icons8.com/fluency/48/node-js.png)
 ![ExpressJS](https://img.icons8.com/office/16/express-js.png)
